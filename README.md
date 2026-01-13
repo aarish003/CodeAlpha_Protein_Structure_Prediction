@@ -1,22 +1,43 @@
-# CodeAlpha_Protein_Structure_Prediction
-# Protein Structure Prediction – CodeAlpha Internship
+Task Description
 
-This repository contains **Task 3** of the CodeAlpha Bioinformatics Internship.
+This task focuses on protein structure prediction and visualization using computational bioinformatics tools. The three-dimensional structure of a selected protein was obtained and analyzed to understand its structural features and biological significance.
 
-## Task Objective
-- Select protein sequence from UniProt
-- Predict 3D structure
-- Visualize protein structure
-- Analyze structural features
+Protein Selected
 
-## Tools Used
-- AlphaFold Database
-- SWISS-MODEL
-- PyMOL
+Protein Name: Hemoglobin Subunit Beta
 
-## Outcome
-Protein 3D structure was predicted and visualized with structural analysis.
+Organism: Homo sapiens (Human)
 
-## Intern Details
-- Name: Gulam Sarwer
-- Domain: Bioinformatics
+UniProt ID: P68871
+
+Protein Length: 147 amino acids
+
+Tools Used
+
+AlphaFold Database – Protein structure prediction
+
+PyMOL – Structure visualization
+
+UniProt – Protein sequence source
+
+Methodology
+
+Protein sequence was retrieved from UniProt.
+
+Predicted structure was downloaded from AlphaFold Database.
+
+Structure was visualized using PyMOL.
+
+Structural elements such as alpha helices were analyzed.
+
+High-quality images were captured for reporting.
+
+Observations
+
+Structure is predominantly alpha-helical.
+
+Compact and stable globular fold observed.
+
+Clear heme-binding region identified.
+
+Prediction confidence is high across residues.
